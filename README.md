@@ -6,4 +6,4 @@ We've learned about **Angular.js**, one of the most popular client-side framewor
 
 Submit your report in a pull request as a plain-text or Markdown file. Include links to any web sites you found useful in your search. Before submitting, use `Command+Option+Q` to hard-wrap each of your paragraphs at 80 characters (`Alt+Q` for Linux).
 
-**Note: You will be graded on the clarity of your communication!** As a developer, being able to get complex ideas across clearly and concisely in writing is one of your most important (and marketable!) skills. Bad spelling, grammar, punctuation, etc. detracts from your perceived competence and credibility.
+**Note: You will be graded on the clarity of your communication!** As a developer, being able to get complex ideas across clearly and concisely in writing is one of your most important (and marketable!) skills. From emails to documentation to code review comments, written communication is essential, and having a good command of the language will make you stand out.
