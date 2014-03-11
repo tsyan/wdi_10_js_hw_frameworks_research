@@ -24,7 +24,8 @@ whereas Angular just annotates existing HTML. An advantage of Angular is that
 it is far more testable than Ember.
 
 LivingSocial, Groupon, Discourse, and Square are some of the most well-known
-apps using Ember. Overall, it seems like the main decision of whether to use
+apps that use Ember. It is also possible to integrate Ember with Rails via the
+ember-rails gem. Overall, it seems like the main decision of whether to use
 Angular or Ember comes down to the size of your project. If it's a large,
 ambitious app, use Ember. If it's a smaller or intermediate-size app, Angular
 will probably work better, and is easier to learn.
