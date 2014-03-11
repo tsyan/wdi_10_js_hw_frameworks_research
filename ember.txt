@@ -1,7 +1,30 @@
 Ember.js
 
-Ember is one of the biggest frameworks out there in terms of the functionality it provides. It's a framework rather than a library, which means it gives you a file structure that you need to follow (like Rails does) that can handle all the common requirements of a web app, rather than a specific piece of functionality (like AJAX or jQuery would do). It's designed for building ambitious, scalable, long-term projects, so it comes with many features and a level of complexity that may not be needed for a smaller, simpler project. Ember has a reputation for having a steep learning curve, but at its best, it allows you to write elegantly with many fewer lines of code than in other frameworks.
+Ember is one of the biggest frameworks out there in terms of the functionality
+it provides. It's a framework rather than a library, which means it gives you
+a file structure that you need to follow (like Rails does) that can handle all
+the common requirements of a web app, rather than a specific piece of
+functionality (like AJAX or jQuery would do). It's designed for building
+ambitious, scalable, long-term projects, so it comes with many features and a
+level of complexity that may not be needed for a smaller, simpler project.
+Ember has a reputation for having a steep learning curve, but at its best, it
+allows you to write elegantly with many fewer lines of code than in other
+frameworks.
 
-Ember supports many of the same features that Angular does. Ember's main advantage over Angular is speed: the founders claim that Ember can do anything Angular can, and be as fast or faster in terms of browser rendering. Both of these frameworks do URL routing, view bindings, partial views, and can "listen" or "observe" objects for changes. Ember is built on a pure MVC concept (like Rails), and Angular generally is too, although they call it MVW (Model-View-Whatever). Angular has a somewhat bigger community and ecosystem built around it (plugins, libraries, tutorials, StackOverflow examples) than Ember does, in part because Ember is newer. Ember uses Handlebars templates whereas Angular just annotates existing HTML. An advantage of Angular is that it is far more testable than Ember.
+Ember supports many of the same features that Angular does. Ember's main
+advantage over Angular is speed: the founders claim that Ember can do anything
+Angular can, and be as fast or faster in terms of browser rendering. Both of
+these frameworks do URL routing, view bindings, partial views, and can
+"listen" or "observe" objects for changes. Ember is built on a pure MVC
+concept (like Rails), and Angular generally is too, although they call it MVW
+(Model-View-Whatever). Angular has a somewhat bigger community and ecosystem
+built around it (plugins, libraries, tutorials, StackOverflow examples) than
+Ember does, in part because Ember is newer. Ember uses Handlebars templates
+whereas Angular just annotates existing HTML. An advantage of Angular is that
+it is far more testable than Ember.
 
-LivingSocial, Groupon, Discourse, and Square are some of the most well-known apps using Ember. Overall, it seems like the main decision of whether to use Angular or Ember comes down to the size of your project. If it's a large, ambitious app, use Ember. If it's a smaller or intermediate-size app, Angular will probably work better, and is easier to learn.
+LivingSocial, Groupon, Discourse, and Square are some of the most well-known
+apps using Ember. Overall, it seems like the main decision of whether to use
+Angular or Ember comes down to the size of your project. If it's a large,
+ambitious app, use Ember. If it's a smaller or intermediate-size app, Angular
+will probably work better, and is easier to learn.
